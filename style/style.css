@@ -573,7 +573,9 @@ a.violet{
     grid-template-columns: repeat(2, 2fr);
 }
 .btn-primary-1{
-    margin-left: 13rem;
+    margin-left: 11rem;
+    height: 5vh;
+    width:20vh ;
 }
 
 .arrow-buttons{
