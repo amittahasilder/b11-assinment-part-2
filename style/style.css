@@ -444,7 +444,7 @@ a.violet{
     transform: scale(1.1);
   }
 
-  @media (max-width: 578px) {
+  @media (max-width: 576px) {
     .footer-container {
       flex-direction: column;
       text-align: start;
@@ -500,7 +500,7 @@ a.violet{
 
 /* ------=-Responsive----- */
 
-  @media (max-width: 578px) {
+  @media (max-width: 576px) {
     .nav-links, .contact-btn {
       display: none;
     }
